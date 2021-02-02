@@ -1,4 +1,4 @@
-**Redis未收取SSH协议公钥写入漏洞验证**
+**Redis未授权SSH协议公钥写入漏洞验证**
 
 **Code By:Tas9er**
 
